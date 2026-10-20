@@ -1,0 +1,7 @@
+﻿Type,Definition,Best suited for,Main advantage,Main trade-off
+Ultrabook,Thin and lightweight premium laptop; originally an Intel-defined category,Travel; office work; studying,Portability and energy efficiency,Limited upgradeability and sustained heavy-workload performance
+Notebook,General term for a laptop; not a separate performance class,Everyday computing; school; office work,Wide choice of sizes and specifications,Capabilities depend on the individual model
+2 in 1 Convertible,Touchscreen laptop with a folding hinge for laptop and tablet modes,Handwritten notes; presentations; drawing with a compatible pen,Flexible usage modes,Hinge complexity; pen support varies; less convenient than a dedicated tablet
+Gaming,Laptop optimized for games; typically powerful graphics and cooling,Gaming; graphics-heavy creative work,High graphics performance,Often heavier; louder; shorter battery life under load
+Workstation,Laptop designed for demanding professional applications; may offer certified drivers,CAD; engineering; 3D rendering; scientific workloads,Professional software support and sustained performance,Often expensive; portability varies
+Netbook,Small low-cost low-power laptop; mainly a historical category,Basic browsing; email; simple documents,Compact and inexpensive,Limited processing power; small screen and keyboard
